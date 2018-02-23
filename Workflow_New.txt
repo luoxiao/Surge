@@ -1,6 +1,6 @@
 本次更新：
 
-适配：Surge 2 / Surge 3
+修复：解决了一个 Special_Proxy 的问题
 
 
 微信公众号：墙洞说
