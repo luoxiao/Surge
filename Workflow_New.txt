@@ -1,6 +1,6 @@
 本次更新：
 
-修复：解决了一个 Special_Proxy 的问题
+Shadowrocket 用户不再必须运行 User Data
 
 
 微信公众号：墙洞说
